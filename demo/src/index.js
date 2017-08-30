@@ -6,7 +6,8 @@ import Example from '../../src'
 class Demo extends Component {
   render() {
     return <div>
-      <h1>react-loading-button Demo</h1>
+      <h1>react-loading-button Demo:</h1>
+      <hr/>
       <Example/>
     </div>
   }
